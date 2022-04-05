@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/041_React_Random-User-App/static/css/main.52b0b488.css",
+    "main.js": "/041_React_Random-User-App/static/js/main.cee5276c.js",
+    "index.html": "/041_React_Random-User-App/index.html",
+    "main.52b0b488.css.map": "/041_React_Random-User-App/static/css/main.52b0b488.css.map",
+    "main.cee5276c.js.map": "/041_React_Random-User-App/static/js/main.cee5276c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b0b488.css",
+    "static/js/main.cee5276c.js"
+  ]
+}
