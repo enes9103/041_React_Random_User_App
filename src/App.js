@@ -60,9 +60,9 @@ function App() {
       <div className='admin'>
         <p>Developer Contact</p>
         <hr />
-        <a href="https://www.linkedin.com/in/enesunlu/" target="_blank"><BsLinkedin className='adminIcon'/></a>
-        <a href="https://github.com/enes9103" target="_blank"><BsGithub className='adminIcon'/></a>
-        <a href="mailto: enes9103@gmail.com"><BsFillEnvelopeFill className='adminIcon'/></a>
+        <a href="https://www.linkedin.com/in/enesunlu/" target="_blank" rel='noreferrer'><BsLinkedin className='adminIcon'/></a>
+        <a href="https://github.com/enes9103" target="_blank" rel='noreferrer'><BsGithub className='adminIcon'/></a>
+        <a href="mailto: enes9103@gmail.com" rel='noreferrer'><BsFillEnvelopeFill className='adminIcon'/></a>
       </div>
       
     </div>
